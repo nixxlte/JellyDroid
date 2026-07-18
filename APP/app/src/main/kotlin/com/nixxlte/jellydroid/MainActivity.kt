@@ -1,6 +1,7 @@
-package dev.jahir.blueprint.app
+package com.nixxlte.jellydroid
 
 import com.github.javiersantos.piracychecker.PiracyChecker
+import dev.jahir.blueprint.R
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
 
 /**

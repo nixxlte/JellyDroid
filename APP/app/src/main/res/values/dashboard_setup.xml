@@ -41,7 +41,7 @@
     1. Dark
     2. Follow system
     -->
-    <integer name="default_theme">2</integer>
+    <integer name="default_theme">1</integer>
 
     <!--
     Do you want AMOLED theme to be enabled by default? (Requires dark theme or system dark theme enabled)
@@ -49,12 +49,6 @@
     False means no
     -->
     <bool name="amoled_theme_enabled_by_default">false</bool>
-
-    <!--
-    Do you want Material You to be enabled by default? This works on Android 12 and higher.
-    `true` means yes. `false` means no.
-    -->
-    <bool name="material_you_enabled_by_default">true</bool>
 
     <!-- These are your donation items. Only put their ids here -->
     <string-array name="donation_items">

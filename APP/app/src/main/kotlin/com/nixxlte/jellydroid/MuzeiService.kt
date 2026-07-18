@@ -1,4 +1,4 @@
-package dev.jahir.blueprint.app
+package com.nixxlte.jellydroid
 
 import dev.jahir.frames.muzei.FramesArtProvider
 
